@@ -9,3 +9,8 @@
  - Update the position of the bird on canvas based on that
  - Catch the keyboard up event and set velocity to +20 when the keybaord up key is pressed
  - See your bird dance up and down
+
+## Advanced TODOs
+ - Calculate the time between renders, dont assume a certain framerate
+ - Add bars throughout whose speed keeps on increasing and move towards the bird
+ - In every interation, check if the bird collided with a bar
